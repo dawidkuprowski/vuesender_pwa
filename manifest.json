@@ -1,0 +1,11 @@
+{
+    "name": "Moja Aplikacja",
+    "short_name": "Aplikacja",
+    "description": "Przykładowa Progressive Web App z safe area.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "orientation": "portrait",
+    "display_override": ["window-controls-overlay", "standalone"]
+}  
